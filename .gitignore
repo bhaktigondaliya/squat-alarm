@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Auto-downloaded MediaPipe model file
+*.task
+
+# Personal alarm sound files (user should add their own)
+alarm.wav
+*.mp3
+
+# PyCharm project settings
+.idea/
