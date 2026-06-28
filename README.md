@@ -68,4 +68,4 @@ python main.py --sound alarm.wav --reps 5
 
 ## Status
 
-Desktop prototype, in progress. Possible next steps: stricter form checking, mobile port, sound customization.
+Desktop prototype
